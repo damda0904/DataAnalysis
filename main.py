@@ -57,3 +57,9 @@ plt.ylabel("count")
 
 plt.grid()
 plt.show()
+
+
+#진점수 0.4 이하 필터링
+m1 = m1[m1['realScore'] <= 0.4]
+m2 = m2[m2['realScore'] <= 0.4]
+m3 = m3[m3['realScore'] <= 0.4]
