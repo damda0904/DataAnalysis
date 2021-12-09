@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e56e59d4-018a-44c3-b7c9-e2943ff541df" name="Default Changelist" comment="filtering" />
+    <list default="true" id="e56e59d4-018a-44c3-b7c9-e2943ff541df" name="Default Changelist" comment="errata_grouping">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grouping.py" beforeDir="false" afterPath="$PROJECT_DIR$/grouping.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,6 +69,8 @@
       <workItem from="1638635471847" duration="5289000" />
       <workItem from="1638640810163" duration="2403000" />
       <workItem from="1638683414397" duration="693000" />
+      <workItem from="1638890892901" duration="662000" />
+      <workItem from="1639047316424" duration="756000" />
     </task>
     <task id="LOCAL-00001" summary="seperation, visualization">
       <created>1638643117338</created>
@@ -88,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638684647051</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="errata_grouping">
+      <created>1638890953912</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638890953912</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +128,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="seperation, visualization" />
     <MESSAGE value="filtering" />
-    <option name="LAST_COMMIT_MESSAGE" value="filtering" />
+    <MESSAGE value="errata_grouping" />
+    <option name="LAST_COMMIT_MESSAGE" value="errata_grouping" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dataAnalysis$main.coverage" NAME="main Coverage Results" MODIFIED="1638639254097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
